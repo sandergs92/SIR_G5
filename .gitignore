@@ -1,0 +1,24 @@
+# Ignore generated files
+*.rdb
+*.p
+*.pyc
+
+# Keep some folders
+!.keepme
+
+# Ignore Eclipse/Pycharm stuff
+.buildpath
+.project
+.settings
+.idea
+
+
+
+# Ignore egg files
+sic_framework.egg-info/
+
+sic_framework/services/face_recognition_dnn/resnet50_ft_weight_old.pt
+
+# Ignore build folder
+build
+

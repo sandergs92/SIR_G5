@@ -15,9 +15,9 @@
 
 
 # Ignore egg files
-sic_framework.egg-info/
+framework/sic_framework.egg-info/
 
-sic_framework/services/face_recognition_dnn/resnet50_ft_weight_old.pt
+framework/sic_framework/services/face_recognition_dnn/resnet50_ft_weight_old.pt
 
 # Ignore build folder
 build
